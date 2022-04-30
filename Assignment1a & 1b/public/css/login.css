@@ -1,0 +1,41 @@
+body {
+    background: #ffffff;
+}
+
+.login_form {
+    margin-top: 25%;
+    background: rgb(255, 255, 255);
+    padding: 28px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(155, 144, 144), -10px -10px 5px rgb(155, 144, 144);
+}
+
+.form_btn {
+    background: blue;
+    border: none;
+    color: #fff;
+    width: 100%;
+}
+
+.label_text {
+    font-size: 12px;
+}
+
+.signup_form {
+    background: #fff;
+    padding: 10px 10px 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 5px rgb(155, 144, 144), -10px -10px 5px rgb(155, 144, 144);
+
+}
+
+.logo {
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form-control{
+    border: 2px solid black;
+}
